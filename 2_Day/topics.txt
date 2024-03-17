@@ -1,0 +1,5 @@
+
+Conditional statements (if, elif, else)
+Loops (for, while)
+Functions: defining, calling, parameters, and return values
+Scope and namespaces
