@@ -1,0 +1,3 @@
+Exception handling (try, except, finally)
+Debugging techniques and best practices
+Logging in Python

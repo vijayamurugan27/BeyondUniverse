@@ -1,0 +1,5 @@
+Overview of Python and its applications
+Installation and setup (Python interpreter, IDEs)
+Basic syntax, data types, and variables
+Basic input/output operations
+
