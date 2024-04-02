@@ -1,0 +1,1 @@
+2024-04-01 22:32:40,088 - __main__ - INFO - This is a custom logger.

@@ -1,0 +1,55 @@
+DEBUG:root: This is the lowest priority error
+INFO:root: This is  the info error
+WARNING:root:This is  the waning error
+ERROR:root:This is an error message
+CRITICAL:root:this is the critical message error
+DEBUG:root: This is the lowest priority error
+INFO:root: This is  the info error
+WARNING:root:This is  the waning error
+ERROR:root:This is an error message
+CRITICAL:root:this is the critical message error
+DEBUG:root: This is the lowest priority error
+INFO:root: This is  the info error
+WARNING:root:This is  the waning error
+ERROR:root:This is an error message
+CRITICAL:root:this is the critical message error
+DEBUG:root: This is the lowest priority error
+INFO:root: This is  the info error
+WARNING:root:This is  the waning error
+ERROR:root:This is an error message
+ERROR:root:This is an error message
+2024-04-01 22:07:06,945 - DEBUG - This is the lowest priority error
+2024-04-01 22:07:06,945 - INFO - This is  the info error
+2024-04-01 22:07:06,945 - WARNING -This is  the waning error
+2024-04-01 22:07:06,945 - ERROR -This is an error message
+2024-04-01 22:07:06,945 - ERROR -This is an error message
+2024-04-01 22:11:51,993 - DEBUG - This is the lowest priority error
+2024-04-01 22:11:51,993 - INFO - This is  the info error
+2024-04-01 22:11:51,993 - WARNING -This is  the waning error
+2024-04-01 22:11:51,993 - ERROR -This is an error message
+2024-04-01 22:11:51,993 - ERROR -This is an error message
+2024-04-01 22:12:05,138 - DEBUG - This is the lowest priority error
+2024-04-01 22:12:05,138 - INFO - This is  the info error
+2024-04-01 22:12:05,138 - WARNING -This is  the waning error
+2024-04-01 22:12:05,138 - ERROR -This is an error message
+2024-04-01 22:12:05,138 - DEBUG -The boys name is ramu
+2024-04-01 22:15:45,234 - DEBUG - This is the lowest priority error
+2024-04-01 22:15:45,234 - INFO - This is  the info error
+2024-04-01 22:15:45,234 - WARNING -This is  the waning error
+2024-04-01 22:15:45,234 - ERROR -This is an error message
+2024-04-01 22:15:45,234 - DEBUG -The boys name is ramu
+2024-04-01 22:18:18,878 - DEBUG - This is the lowest priority error
+2024-04-01 22:18:18,878 - INFO - This is  the info error
+2024-04-01 22:18:18,879 - WARNING -This is  the waning error
+2024-04-01 22:18:18,879 - ERROR -This is an error message
+2024-04-01 22:18:18,879 - ERROR -ZeroDivisionError
+Traceback (most recent call last):
+  File "C:\Users\VIJAY\OneDrive\Desktop\Beyond_Universe\material\week_2\Logging\log12.py", line 36, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2024-04-01 22:27:05,607 - INFO -This is a custom logger.
+2024-04-01 22:27:35,508 - INFO -This is a custom logger.
+2024-04-01 22:28:10,693 - INFO -This is a custom logger.
+2024-04-01 22:28:19,436 - INFO -This is a custom logger.
+2024-04-01 22:32:40,088 - INFO - This is a custom logger.
